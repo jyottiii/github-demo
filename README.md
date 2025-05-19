@@ -1,2 +1,4 @@
 # github-demo
-small demo for learning github
+very small demo for learning github
+
+Hello world
